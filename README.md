@@ -1,5 +1,5 @@
 ## Welcome
-<img align="right" width="335" height="403" src="https://user-images.githubusercontent.com/36813238/130360540-6f8dd57e-5eb9-46ef-9449-2afee2c43b99.jpg" alt="The_worship_of_Mammon"/>
+<img align="right" width="335" height="403" src="https://user-images.githubusercontent.com/36813238/130370975-0f97887e-97ff-4cf5-bdc8-c5eef79c6028.png" alt="The_worship_of_Mammon"/>
 
 ### About Me
 <div align="justify">
