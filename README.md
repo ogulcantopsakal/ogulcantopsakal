@@ -3,7 +3,7 @@
 
 ### About Me
 <div align="justify">
-I'm Can. I have completed my bachelor's in computer science and engineering at Gazi University. I have been working in the field of game development, which has been my only passion since childhood. I have developed games for three years as a hobby and one year as a professional using the Unity game engine. I am constantly trying to improve myself in this field.
+I'm Can. I have completed my bachelor's in computer science and engineering at Gazi University. I have been working in the field of game development, which has been my only passion since childhood. I am constantly trying to improve myself in this field.
 </div>
 
 
