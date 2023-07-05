@@ -3,7 +3,7 @@
 
 ### About Me
 <div align="justify">
-I'm Can. I have completed my bachelor's in computer science and engineering at Gazi University. I have been working in the field of game development, which has been my only passion since childhood. I am constantly trying to improve myself in this field.
+I'm Ogulcan. I have completed my bachelor's in computer science and engineering at Gazi University. I have been working in the field of game development, which has been my only passion since childhood. 
 </div>
 
 
