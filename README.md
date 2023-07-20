@@ -8,7 +8,7 @@
 
 ## About Me
 <div align="justify">
-I'm Ogulcan. I have completed my bachelor's in computer science and engineering at Gazi University. I have been working in the field of game development, which has been my only passion since childhood. 
+I'm Ogulcan. I have completed my bachelor's in computer engineering at Gazi University. I have been working in the field of game development, which has been my only passion since childhood. 
 </div>
 
 ## Contact
